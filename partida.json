@@ -1,0 +1,21 @@
+{
+    "partida": {
+        "jugador": {
+            "x": 760,
+            "y": 380,
+            "x_sec": 810,
+            "y_sec": 380,
+            "vida": 550,
+            "punto": 100
+        },
+        "enemigo": [
+            0,
+            100
+        ],
+        "enemigo_final": null,
+        "item": [
+            false
+        ],
+        "proximo_nivel": "Nivel_tres"
+    }
+}

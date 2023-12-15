@@ -1,0 +1,7 @@
+{
+    "configuracion": {
+        "ancho_pantalla": 1000,
+        "alto_pantalla": 650,
+        "nombre_ventana": "Star Wars"
+    }
+}
