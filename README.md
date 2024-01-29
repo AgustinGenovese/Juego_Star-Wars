@@ -1,4 +1,5 @@
 Descripción del Juego
+
 Bienvenido al emocionante mundo de nuestro juego de plataformas desarrollado en Python con la biblioteca Pygame. Prepárate para vivir una experiencia interactiva y desafiante a lo largo de tres niveles llenos de acción. Enfréntate a enemigos, recolecta valiosos ítems y derrota al temible jefe final para demostrar tu destreza en este emocionante juego.
 
 Controles
