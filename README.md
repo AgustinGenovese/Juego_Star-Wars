@@ -2,7 +2,9 @@ Descripción del Juego
 
 Bienvenido al emocionante mundo de nuestro juego de plataformas desarrollado en Python con la biblioteca Pygame. Prepárate para vivir una experiencia interactiva y desafiante a lo largo de tres niveles llenos de acción. Enfréntate a enemigos, recolecta valiosos ítems y derrota al temible jefe final para demostrar tu destreza en este emocionante juego.
 
+
 Controles
+
 Flechas Izquierda/Derecha: Mueve al jugador en la dirección deseada.
 Flecha Arriba: Haz que tu personaje salte para superar obstáculos.
 Barra Espaciadora: Dispara proyectiles para eliminar enemigos y superar desafíos.
@@ -32,4 +34,6 @@ Sonido y Música Ambiental:
 
 Disfruta de efectos de sonido que acompañan cada acción.
 Sumérgete en la experiencia con música ambiental que te envuelve durante todo el juego.
+
+
 ¡Diviértete jugando y demuestra que eres el héroe de este desafiante juego de plataformas! 
